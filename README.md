@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **dev.leedawn@gmail.com**
 
-- ⚡ What I like to do: **I like so much singing, trip and chill with my dog ...and coding of course**
+- ⚡ What I like to do: **I like so much music, trip and chill with my dog ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
