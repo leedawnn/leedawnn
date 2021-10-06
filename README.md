@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FCC419&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile!;I'm+a+Front+end+developer;I'm+Growing+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FCC419&center=true&vCenter=true&width=582&height=55&lines=Welcome+to+my+Github+Profile!;I'm+a+Front+end+developer;I'm+Growing+programmer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm leedawn <img src="https://emoji.gg/assets/emoji/5041-confusedcat.png" width="64px" height="64px" alt="confusedCat"></h1>
 <h3 align="center">A passionate Javascript and Front-End developer from Korea.</h3>
@@ -16,10 +16,8 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leedawnnn)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.dev.leedawn@gmail.com)
   
 </div>
 
@@ -61,45 +59,5 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leedawnn&repo=https://github.com/leedawnn/js-mometum.git&theme=onedark"/>
 </a>
 
-#### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=leedawnn&show_icons=true&include_all_commits=true&theme=onedark" alt="leedawn's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leedawnn&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=leedawnn&theme=onedark" alt="leedawnn" />
-</p>
-
 #### Contribution Graph
 [![leedawn's github activity graph](https://activity-graph.herokuapp.com/graph?username=leedawnn&theme=react-dark)](https://github.com/leedawnn/github-readme-activity-graph)
-<!---
-
-#### I'm an Early 🐤
-```text
-🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
-🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% 
-🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
-```
-
-#### I Spent My Time On
-```text
-💬 Programming Lanuages:
-HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
-CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
-GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
-
-🔥 Editors:
-VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50% 
-Atom                     1 Hour             ██████████████░░░░░░░░░░░   50%
-
-💻 Operating System:
-Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
-```
-------
