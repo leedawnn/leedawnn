@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FCC419&center=true&vCenter=true&width=582&height=55&lines=Welcome+to+my+Github+Profile!;I'm+a+Front+end+developer;I'm+Growing+programmer)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm leedawn <img src="https://emoji.gg/assets/emoji/5041-confusedcat.png" width="64px" height="64px" alt="confusedCat"></h1>
-<h3 align="center">A passionate Javascript and Front-End developer from Korea.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FCC419&center=true&vCenter=true&width=582&height=55&lines=Welcome+to+my+Github+Profile!;I'm+a+Front+end+developer;I'm+Growing+programmer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on my **Front-end Course**
 
