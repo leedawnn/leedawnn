@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">leedawn</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=fcc419&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+Grwoing+programmer; /></a>
 </p>
 <p>I am a front-end developer, I'm a Growing Developer.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
@@ -29,11 +29,11 @@ const leedawn = {
 #### Favorite Projects
 <a href="https://leedawnn.github.io/paintjs/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leedawnn&repo=https://github.com/leedawnn/paintjs.git&theme=onedark" />
 </a>    
 <a href="https://leedawnn.github.io/js-mometum/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leedawnn&repo=https://github.com/leedawnn/js-mometum.git&theme=onedark"/>
 </a>
 
 #### Stats
