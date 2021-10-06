@@ -49,15 +49,5 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
 
-#### Favorite Projects
-<a href="https://leedawnn.github.io/paintjs/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leedawnn&repo=https://github.com/leedawnn/paintjs.git&theme=onedark" />
-</a>    
-<a href="https://leedawnn.github.io/js-mometum/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leedawnn&repo=https://github.com/leedawnn/js-mometum.git&theme=onedark"/>
-</a>
-
 #### Contribution Graph
 [![leedawn's github activity graph](https://activity-graph.herokuapp.com/graph?username=leedawnn&theme=react-dark)](https://github.com/leedawnn/github-readme-activity-graph)
