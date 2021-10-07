@@ -45,8 +45,6 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=leedawnn&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leedawnn&theme=react&layout=compact" />
 </p>
-<<<<<<< HEAD
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-=======
->>>>>>> 021d60f479d2f99e0227d835c7a0d672d940c20e
