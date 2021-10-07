@@ -48,3 +48,6 @@
 
 #### Contribution Graph
 [![leedawn's github activity graph](https://activity-graph.herokuapp.com/graph?username=leedawnn&theme=react-dark)](https://github.com/leedawnn/github-readme-activity-graph)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
