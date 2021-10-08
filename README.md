@@ -58,8 +58,7 @@
 🌙 Night      44 commits     █████░░░░░░░░░░░░░░░░░░░░   22.34%
 
 
-
-**I Mostly Code in HTML** 
+**I Mostly Code in HTML**
 
 ```text
 HTML                     5 repos             ███████████░░░░░░░░░░░░░░   45.45% 
@@ -69,11 +68,4 @@ CSS                      2 repos             ████░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/leedawnn/leedawnn/main/charts/bar_graph.png) 
-
-
- Last Updated on 08/10/2021
 <!--END_SECTION:waka-->
