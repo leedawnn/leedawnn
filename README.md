@@ -49,18 +49,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-177-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 205 Contributions in the Year 2021
- > 
-> 📦 59.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -69,39 +57,7 @@
 🌃 Evening    104 commits    █████████████░░░░░░░░░░░░   52.79% 
 🌙 Night      44 commits     █████░░░░░░░░░░░░░░░░░░░░   22.34%
 
-```
-📅 **I'm Most Productive on Wednesday** 
 
-```text
-Monday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
-Tuesday      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
-Wednesday    52 commits     ██████░░░░░░░░░░░░░░░░░░░   26.4% 
-Thursday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
-Friday       52 commits     ██████░░░░░░░░░░░░░░░░░░░   26.4% 
-Saturday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.57%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in HTML** 
 
