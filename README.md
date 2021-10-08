@@ -47,4 +47,77 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-185-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 204 Contributions in the Year 2021
+ > 
+> 📦 59.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    48 commits     ██████░░░░░░░░░░░░░░░░░░░   24.49% 
+🌃 Evening    104 commits    █████████████░░░░░░░░░░░░   53.06% 
+🌙 Night      44 commits     █████░░░░░░░░░░░░░░░░░░░░   22.45%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Tuesday      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
+Wednesday    52 commits     ██████░░░░░░░░░░░░░░░░░░░   26.53% 
+Thursday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+Friday       51 commits     ██████░░░░░░░░░░░░░░░░░░░   26.02% 
+Saturday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.59%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     5 repos             ███████████░░░░░░░░░░░░░░   45.45% 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/leedawnn/leedawnn/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/10/2021
 <!--END_SECTION:waka-->
