@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **Front-end Course**
 
-- 🌱 I’m currently learning **JS, React, HTML5 and CSS3**
+- 🌱 I’m currently learning **JS, Vue, React, HTML5 and CSS3**
 
 - 📫 How to reach me: **dev.leedawn@gmail.com**
 
@@ -33,6 +33,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+    <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
+  </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
