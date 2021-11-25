@@ -48,7 +48,7 @@
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={leedawn})](https://solved.ac/{leedawn})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedawn)](https://solved.ac/leedawn)
 
 <!--START_SECTION:waka-->
 
