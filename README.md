@@ -10,14 +10,6 @@
 
 - ⚡ What I like to do: **I like so much music, trip and chill with my dog ...and coding of course**
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leedawnnn)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.dev.leedawn@gmail.com)
-
-</div>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
@@ -47,8 +39,12 @@
   </a>
 </p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedawn)](https://solved.ac/leedawn)
+<div align="center">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedawn)](https://solved.ac/leedawn)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=leedawn&theme=cold)
+
+</div>
 
 <!--START_SECTION:waka-->
 
