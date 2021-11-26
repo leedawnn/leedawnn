@@ -8,11 +8,19 @@
 
 - 📫 How to reach me: **dev.leedawn@gmail.com**
 
-- ⚡ What I like to do: **I like so much music, trip and chill with my dog ...and coding of course**
+- ⚡ What I like to do: **I like so much music, trip and chill with my dog ...and coding of course**  
+<br />
 
-<h3 align="center">Languages and Tools:</h3>
+<div align="center">
 
-<p align="center"> 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedawn)](https://solved.ac/leedawn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![mazandi profile](http://mazandi.herokuapp.com/api?handle=leedawn&theme=cold)
+
+</div>
+
+
+<h3>Skills👩🏻‍💻</h3>
+
+<p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -39,11 +47,7 @@
   </a>
 </p>
 
-<div align="center">
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedawn)](https://solved.ac/leedawn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![mazandi profile](http://mazandi.herokuapp.com/api?handle=leedawn&theme=cold)
-
-</div>
+<br />
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
