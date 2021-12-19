@@ -25,6 +25,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=white)
+![ESlint](https://img.shields.io/badge/ESlint-30336b?style=for-the-badge&logo=ESlint&logoColor=white)
+
 
 <br />
 
