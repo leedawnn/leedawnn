@@ -32,6 +32,10 @@
 
 <br />
 
+![Metrics](https://github.com/leedawnn/leedawnn/blob/main/github-metrics.svg)
+
+<br />
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -42,9 +46,6 @@
 🌙 Night      116 commits    ███████░░░░░░░░░░░░░░░░░░   28.5%
 
 ```
-
-![Metrics](https://github.com/leedawnn/leedawnn/blob/main/github-metrics.svg)
-
 
 📊 **This Week I Spent My Time On** 
 
