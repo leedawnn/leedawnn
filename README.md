@@ -43,6 +43,8 @@
 
 ```
 
+![Metrics](https://github.com/leedawnn/leedawnn/blob/main/github-metrics.svg)
+
 
 📊 **This Week I Spent My Time On** 
 
