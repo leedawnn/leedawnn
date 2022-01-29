@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm leedawn <img src="https://emoji.gg/assets/emoji/5041-confusedcat.png" width="64px" height="64px" alt="confusedCat"></h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FCC419&center=true&vCenter=true&width=854&height=72&lines=Welcome+to+my+Github+Profile!;I'm+a+Front+end+developer;I'm+Growing+programmer)](https://git.io/typing-svg)
+<br />
 
 - 🌱  I’m currently working on my **Front-end Course**
 
