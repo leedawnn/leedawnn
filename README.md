@@ -2,11 +2,11 @@
 <br />
 
 <h3 align="center">📬 About me</h3>
-<p align="center">
- <img src="https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ji-hey-lee-0175b9224/" />
- <img src="https://img.shields.io/badge/-Gmail-d14836?style=round&logo=Gmail&logoColor=white&link=mailto:dev.leedawn@gmail.com" />
- <img src="http://img.shields.io/badge/-Tech%20blog-black?style=round&logo=github&link=https://leedawnn.github.io/" />
-</p>
+<div align="center">
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ji-hey-lee-0175b9224/)](https://www.linkedin.com/in/ji-hey-lee-0175b9224/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=round&logo=Gmail&logoColor=white&link=mailto:dev.leedawn@gmail.com)](mailto:dev.leedawn@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=round&logo=github&link=https://leedawnn.github.io/)](https://leedawnn.github.io/)
+
+</div>
            
 <br />
 
