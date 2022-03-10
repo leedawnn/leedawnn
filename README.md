@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm leedawn <img src="https://emoji.gg/assets/emoji/5041-confusedcat.png" width="64px" height="64px" alt="confusedCat"></h1>
 <br />
 
-- 🌱  I’m currently working on my **Front-end Course**
-
-- 📫 How to reach me: **dev.leedawn@gmail.com**
-
-- ⚡ What I like to do: **I like so much music, trip and chill with my dog ...and coding of course**  
+<h3 align="center">📬 About me</h3>
+<p align="center">
+ <img src="https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ji-hey-lee-0175b9224/" />
+ <img src="https://img.shields.io/badge/-Gmail-d14836?style=round&logo=Gmail&logoColor=white&link=mailto:dev.leedawn@gmail.com" />
+ <img src="http://img.shields.io/badge/-Tech%20blog-black?style=round&logo=github&link=https://leedawnn.github.io/" />
+</p>
+           
 <br />
 
 <h3 align="center">🖥 I'm using this.</h3>
