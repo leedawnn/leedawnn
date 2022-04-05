@@ -29,7 +29,7 @@
 <h3 align="center">✍️ Algorithms</h3>
 <div align="center">
  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedawn)](https://solved.ac/leedawn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![mazandi profile](http://mazandi.herokuapp.com/api?handle=leedawn&theme=cold)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedawn)](https://solved.ac/leedawn)
 
 </div>
 <br />
