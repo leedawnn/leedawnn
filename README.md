@@ -12,16 +12,16 @@
 
 <h3 align="center">🖥 I'm using this.</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img src="https://img.shields.io/badge/Sass-ff6b81?style=for-the-badge&logo=sass&logoColor=white" />
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- <img src="https://img.shields.io/badge/React-dfe4ea?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/Sass-ff6b81?style=round&logo=sass&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=round&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/TypeScript-34495e?style=round&logo=typescript&logoColor=2980b9" />
   <br />
- <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=27ae60" />
- <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
- <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=white" />
- <img src="https://img.shields.io/badge/ESlint-30336b?style=for-the-badge&logo=ESlint&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-3498db?style=round&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/Next.js-ecf0f1?style=round&logo=Next.js&logoColor=000000" />
+ <img src="https://img.shields.io/badge/ESlint-30336b?style=round&logo=ESlint&logoColor=white" />
+ <img src="https://img.shields.io/badge/Prettier-8e44ad?style=round&logo=Prettier&logoColor=white" />
 </p>
 
 <br />
